@@ -1,5 +1,5 @@
 {
-  "name": "multi-version-packages",
+  "name": "multi-version-packages-git",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
