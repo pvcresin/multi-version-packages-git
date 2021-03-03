@@ -1,0 +1,10 @@
+{
+  "name": "multi-version-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "https://github.com/axios/axios.git#v0.21.1",
+    "axios2": "https://github.com/axios/axios.git#v0.18.1"
+  }
+}
